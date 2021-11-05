@@ -1,0 +1,37 @@
+{
+    "name": "Ferdinand",
+    "description": "tough guy, seems a little scared",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYpLvaRJbM6arsbKy8DRJMNhZkuv6kTzYVjuZp6ereLtz",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 99,
+            "max_value": 100
+        },
+        {
+            "trait_type": "Constitution",
+            "value": 85,
+            "max_value": 100
+        },
+        {
+            "trait_type": "Dexterity",
+            "value": 70,
+            "max_value": 100
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 80,
+            "max_value": 100
+        },
+        {
+            "trait_type": "Wisdom",
+            "value": 80,
+            "max_value": 100
+        },
+        {
+            "trait_type": "Charisma",
+            "value": 90,
+            "max_value": 100
+        }
+    ]
+}
