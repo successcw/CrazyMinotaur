@@ -104,14 +104,14 @@ personal.newAccount()
 you need gas to deploy smart contract, so please send eth to this account using metamask  
 unlock account
 ```Bash
-personal.unlockAccount("0x7A3244e8d5A4d0C087992633Ddc131270616c76a")
+personal.unlockAccount("your_account")
 ```
 Deploy
 ```
 truffle migrate --network rinkeby
 ```
 When finished, you will get smart contract's address. Use it to replace 'ADDRESS' in ABI.js.  
-Actually, before deploy to ethereum testnet rinkeby, it's better to deploy it to private blockchain - ganache and test it. please refer to [my blog](truffle) for more details
+Actually, before deploy to ethereum testnet rinkeby, it's better to deploy it to private blockchain - ganache and test it. please refer to [my blog](http://successcw.com/blockchain/2021/11/06/what-is-NFT.html) for more details
 
 ### Website
 ```
